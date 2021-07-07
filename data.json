@@ -1,0 +1,10 @@
+{
+	"1":{
+		"image": "img/grooves/groove-1.png",
+		"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-o-x-x-|&S=|-g--O----g--O--g|-g--O----g--O--g|&K=|o-o----o--o-----|o-o----o--o-----|"
+	},
+	"2":{
+		"image": "img/grooves/groove-2.png",
+		"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|&S=|----O--g-g----O-|----O--g-g--O---|&K=|o---------o-----|--o-------o---o-|"
+	}
+}

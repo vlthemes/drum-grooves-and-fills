@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>kaiwa - Drum grooves & fills</title>
+
+	<link rel="stylesheet" href="framework/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+	<div class="container my-md-4">
+
+		<table class="table table-hover">
+			<thead>
+				<tr>
+					<th scope="col">#</th>
+					<th scope="col">Sheets</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+
+	</div>
+
+	<script src="vendors/jquery-3.6.0.min.js"></script>
+	<script>
+		$.getJSON( 'data.json', function( data ) {
+			var items = [];
+			$.each( data, function( key, val ) {
+				items.push( `<tr id="anchor-${key}"><th>${key}</th><td><a href="${val.link}" target="_blank"><img src="${val.image}" alt="" class="img-fluid" loading="lazy"></a></td></tr>` );
+			});
+			$('.table tbody').html(items.join( "" ));
+		});
+	</script>
+
+</body>
+</html>
