@@ -15,6 +15,16 @@
 			"id": 3,
 			"type": "groove",
 			"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=1&H=|xx--xx-xxx-xxx-x|&S=|---o--gg----b---|&K=|o-------o-o-----|&T1=|----------------|&T4=|----------------|"
+		},
+		{
+			"id": 4,
+			"type": "groove",
+			"link": "https://www.mikeslessons.com/gscribe?TimeSig=3/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-xxxx--x-x-|x--xxx-xo-x-|&S=|------O-O--O|---O--O----O|&K=|o--o---o----|-oo-------o-|"
+		},
+		{
+			"id": 5,
+			"type": "fill",
+			"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=80&Swing=10&Measures=1&H=|----------------|&S=|OOggOOgg----O---|&K=|o-oo-o--o-o--o--|&T1=|---------o-o----|&T4=|--------------oo|"
 		}
 	]
 }
