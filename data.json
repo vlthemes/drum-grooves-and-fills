@@ -1,10 +1,20 @@
+
 {
-	"1":{
-		"type": "groove",
-		"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-o-x-x-|&S=|-g--O----g--O--g|-g--O----g--O--g|&K=|o-o----o--o-----|o-o----o--o-----|"
-	},
-	"2":{
-		"type": "groove",
-		"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|&S=|----O--g-g----O-|----O--g-g--O---|&K=|o---------o-----|--o-------o---o-|"
-	}
+	"rows": [
+		{
+			"id": 1,
+			"type": "groove",
+			"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-o-x-x-|&S=|-g--O----g--O--g|-g--O----g--O--g|&K=|o-o----o--o-----|o-o----o--o-----|"
+		},
+		{
+			"id": 2,
+			"type": "groove",
+			"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=2&H=|x-x-x-x-x-x-x-x-|x-x-x-x-x-x-x-x-|&S=|----O--g-g----O-|----O--g-g--O---|&K=|o---------o-----|--o-------o---o-|"
+		},
+		{
+			"id": 3,
+			"type": "groove",
+			"link": "https://www.mikeslessons.com/gscribe?TimeSig=4/4&Div=16&Tempo=90&Swing=10&Measures=1&H=|xx--xx-xxx-xxx-x|&S=|---o--gg----b---|&K=|o-------o-o-----|&T1=|----------------|&T4=|----------------|"
+		}
+	]
 }
